@@ -1,4 +1,4 @@
-﻿# IBM-Intership
+﻿# IBM-Internship
 
 # ⚡ Power System Fault Detection and Classification using Machine Learning
 
@@ -76,3 +76,4 @@ Faults like Line-to-Ground (LG), Line-to-Line (LL), Double Line-to-Ground (LLG),
 │   └── predicted_output.png
 ├── Harshil_IBM_Project.pdf
 └── README.md
+
