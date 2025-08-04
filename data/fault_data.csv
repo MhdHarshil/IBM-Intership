@@ -1,0 +1,507 @@
+Fault Type,Voltage (V),Current (A),Power Load (MW),Temperature (°C),Wind Speed (km/h),Duration of Fault (hrs),Down time (hrs)
+Line Breakage,2200,250,50,25,20,2,1
+Transformer Failure,1800,180,45,28,15,3,5
+Overheating,2100,230,55,35,25,4,6
+Line Breakage,2050,240,48,23,10,2.5,3
+Transformer Failure,1900,190,50,30,18,3.5,4
+Overheating,2150,220,52,32,22,5,7
+Line Breakage,1994,233,51,23,21,3.7,6.1
+Transformer Failure,2133,229,52,20,18,5.4,2.1
+Line Breakage,2155,240,45,21,29,3.2,4.7
+Line Breakage,2065,199,55,25,21,4,2.8
+Overheating,2118,221,45,20,20,4.9,1.9
+Transformer Failure,2106,247,47,25,13,2.4,6.9
+Line Breakage,2012,248,52,24,29,3.9,6.4
+Line Breakage,2289,192,52,35,28,4.1,5.8
+Line Breakage,1848,231,49,39,13,2.7,5
+Transformer Failure,2102,246,53,38,18,3.5,1.9
+Overheating,2263,229,55,21,16,4.5,6
+Line Breakage,2092,241,52,31,16,6,3.7
+Transformer Failure,1943,245,50,30,15,5.1,3.7
+Line Breakage,2065,213,46,31,23,2.4,6.9
+Line Breakage,1864,224,49,34,23,2.7,5.9
+Overheating,1913,182,48,31,26,5.4,4.2
+Overheating,2284,247,47,31,15,4.5,6.2
+Line Breakage,1877,249,54,33,16,3.2,6.4
+Transformer Failure,1869,218,45,22,18,2.8,5.4
+Overheating,2010,197,47,35,15,4.6,3.3
+Line Breakage,1915,215,47,32,13,2.8,1.9
+Transformer Failure,1860,246,49,36,13,4.6,2.8
+Line Breakage,1878,189,50,28,11,4.5,3.6
+Line Breakage,2206,242,49,27,26,4.4,4.6
+Transformer Failure,2053,235,51,21,30,4.9,6.4
+Overheating,2228,212,50,22,10,3,4
+Overheating,2199,242,53,39,28,5.5,5
+Line Breakage,2206,192,54,23,13,4.7,6.4
+Transformer Failure,1820,224,55,34,24,5.8,5.9
+Overheating,2264,183,48,38,15,2.4,6.5
+Line Breakage,1929,225,55,31,21,5.1,2.9
+Overheating,2206,200,48,37,27,5,5.7
+Line Breakage,1970,225,54,37,17,5.7,1.5
+Transformer Failure,1895,228,48,28,25,5.6,5.5
+Line Breakage,2097,219,53,40,27,2.7,4.7
+Line Breakage,2106,231,49,24,20,2.5,3.3
+Overheating,1950,190,50,27,24,2.6,7
+Line Breakage,1912,211,48,34,30,3.2,6.8
+Overheating,2084,250,54,26,23,3.6,4.5
+Transformer Failure,1986,213,51,31,21,3.4,6.7
+Line Breakage,2159,211,53,38,14,3.9,2.9
+Overheating,2159,250,48,34,18,4.5,4
+Transformer Failure,1811,237,53,40,11,2.6,5.1
+Line Breakage,1929,183,54,35,23,4.6,2.9
+Overheating,2091,245,51,24,27,5.9,1.3
+Transformer Failure,1836,188,53,33,15,5.1,6.9
+Line Breakage,2173,195,50,22,13,5.8,3.3
+Transformer Failure,2233,223,47,23,19,3.7,2.5
+Line Breakage,1916,224,55,40,12,4.1,1.1
+Overheating,2149,227,46,25,10,3.3,2.8
+Overheating,2289,202,48,40,29,2.9,3.1
+Overheating,2093,202,52,25,26,4.5,6.6
+Line Breakage,1949,193,50,25,28,4,4.6
+Overheating,2275,250,51,34,13,3,1.8
+Transformer Failure,1983,187,52,38,13,4.6,6.5
+Overheating,2001,249,55,26,19,5.1,2.8
+Overheating,1842,242,45,35,13,4.4,2.8
+Transformer Failure,2070,185,48,22,19,4.2,4.8
+Overheating,2294,218,51,26,21,5.5,5.4
+Overheating,2148,185,48,23,24,3.3,5.3
+Transformer Failure,1807,185,51,26,13,4.6,6.5
+Transformer Failure,2223,209,50,32,11,3,5
+Transformer Failure,2261,219,48,40,18,3.7,3.5
+Transformer Failure,2198,242,49,39,10,5.1,1.8
+Overheating,1859,200,52,22,15,5.8,2.5
+Overheating,1945,248,49,29,28,3.6,6.3
+Line Breakage,2054,205,47,36,11,2.4,1.2
+Transformer Failure,2212,188,48,33,29,2.6,4.6
+Line Breakage,2298,204,48,30,11,3.4,6.7
+Line Breakage,2129,187,51,32,14,2.9,4.8
+Transformer Failure,2246,236,46,27,29,2.6,4.3
+Transformer Failure,2009,246,53,20,29,3.5,1.9
+Line Breakage,1801,187,51,38,13,4.3,1.4
+Overheating,2092,229,49,39,22,4.7,4.7
+Transformer Failure,2045,199,52,37,21,4.5,2
+Transformer Failure,1988,182,51,29,14,4.8,4.2
+Line Breakage,2120,225,48,32,23,3.8,6.7
+Transformer Failure,2004,197,53,26,17,4.3,6.7
+Overheating,2260,239,53,33,21,2.6,1.7
+Overheating,2289,232,45,26,16,4.6,6.6
+Transformer Failure,2155,206,51,38,15,4.3,1.9
+Transformer Failure,1877,232,50,34,17,4.4,5.6
+Overheating,2146,192,46,22,10,5.4,2.9
+Transformer Failure,1909,219,46,31,29,3.9,5.2
+Transformer Failure,1881,199,47,33,13,2.6,4.3
+Transformer Failure,2234,211,46,24,24,5.5,3.8
+Transformer Failure,2152,226,52,38,28,5.9,6.7
+Overheating,1843,227,46,25,14,3.6,1.9
+Overheating,1949,190,50,39,25,3.7,2
+Transformer Failure,2066,183,52,30,15,4.8,2.6
+Transformer Failure,2188,238,55,22,20,5.5,6.6
+Line Breakage,1994,205,52,32,22,3.1,3.3
+Transformer Failure,2201,234,51,30,14,4.2,3.9
+Transformer Failure,2143,190,55,30,26,5.2,1.6
+Line Breakage,2092,210,46,22,10,5.5,4.7
+Line Breakage,2296,238,55,30,13,4.8,2.2
+Overheating,2167,191,45,33,17,2.3,2.9
+Overheating,2162,243,54,25,25,4.4,6.2
+Transformer Failure,1890,205,49,24,27,2.5,5.6
+Line Breakage,1916,200,51,40,28,4,2.7
+Transformer Failure,1923,247,45,40,18,2.2,4
+Overheating,2020,190,55,34,10,5.1,6.5
+Overheating,1833,213,50,34,21,3.2,3.9
+Overheating,2100,201,45,31,23,5.7,6.1
+Transformer Failure,2031,199,47,32,23,3.5,6.2
+Line Breakage,2205,202,47,38,15,3.6,1.9
+Transformer Failure,1881,218,53,28,17,4.9,3.6
+Line Breakage,1980,193,46,30,25,2.9,6.7
+Line Breakage,1957,200,50,40,19,2.5,1.8
+Transformer Failure,2152,196,50,38,25,3.5,2.5
+Transformer Failure,2262,220,55,35,18,5.2,5.2
+Line Breakage,2093,209,54,39,17,3.9,1.1
+Overheating,1875,221,46,36,25,3.1,3.7
+Line Breakage,1873,226,45,35,17,3.3,5.9
+Transformer Failure,2289,220,52,30,29,2.8,6.5
+Overheating,2176,204,53,36,19,4.8,6.1
+Transformer Failure,1812,183,55,40,23,5.1,7
+Transformer Failure,2104,236,50,23,18,4.8,3.7
+Line Breakage,1808,195,45,30,27,3.3,5.3
+Overheating,1965,230,47,30,29,3.3,5.5
+Line Breakage,2167,196,52,22,12,4.1,6.6
+Line Breakage,1982,223,46,33,20,4.2,4.1
+Overheating,2080,191,48,34,15,3,4.9
+Overheating,2157,208,52,21,11,5.8,1.8
+Transformer Failure,2143,230,45,36,19,4.9,3.5
+Line Breakage,1906,209,54,35,10,4.3,3.2
+Line Breakage,1803,216,49,37,21,5.3,5.5
+Transformer Failure,1933,230,46,40,19,4.4,4.9
+Overheating,1857,185,51,23,16,5,6
+Overheating,1955,226,52,21,30,2.9,1.1
+Line Breakage,1970,206,52,32,20,5,6.5
+Transformer Failure,2141,211,46,39,13,2.2,1.1
+Transformer Failure,1995,200,46,21,21,5.9,5.5
+Transformer Failure,1811,218,45,23,19,5.7,6.3
+Line Breakage,2287,183,52,25,10,2.9,6.2
+Overheating,1811,241,46,24,16,3.5,1.2
+Transformer Failure,2298,181,54,21,12,4.9,2.2
+Transformer Failure,2246,204,48,34,10,4.2,5.2
+Line Breakage,1946,226,46,39,21,2.7,5
+Transformer Failure,1964,224,51,25,28,5.9,5.6
+Line Breakage,2053,249,51,31,23,5.5,3
+Transformer Failure,2076,201,45,30,26,4.2,6
+Line Breakage,2300,206,51,22,23,2.2,1.6
+Line Breakage,2282,201,48,30,25,5.3,3.2
+Transformer Failure,1912,224,51,23,17,5.6,2.1
+Line Breakage,2209,193,52,24,12,3.2,2.3
+Overheating,1812,182,45,29,13,2.3,2.5
+Line Breakage,2006,181,54,29,20,3.2,4.7
+Transformer Failure,2147,242,45,35,20,4.8,6.2
+Transformer Failure,2016,224,55,35,10,5,1.5
+Transformer Failure,2170,192,52,32,20,2.1,2.9
+Overheating,2010,192,45,24,28,2.3,2.1
+Transformer Failure,2273,248,55,21,18,4.1,2
+Transformer Failure,1948,222,51,23,14,3.9,1
+Overheating,2195,228,45,29,15,4.3,4
+Overheating,2266,194,46,25,14,4.3,3.6
+Transformer Failure,2162,247,50,40,27,2.1,3.6
+Overheating,1934,225,52,32,26,2.1,1.5
+Line Breakage,2079,227,53,28,25,4.3,1.7
+Line Breakage,1868,230,45,31,11,4.1,2.6
+Overheating,1870,220,48,35,16,3.9,2.3
+Line Breakage,2077,189,47,24,26,4.1,6.9
+Overheating,2011,226,48,28,23,5.5,5.7
+Line Breakage,1991,230,52,39,17,5.8,4.1
+Transformer Failure,1880,210,54,36,19,4.4,3.5
+Overheating,1874,185,50,28,22,5.2,6.5
+Transformer Failure,2270,219,52,36,25,4.8,6.5
+Overheating,1870,240,50,22,25,4.5,1.4
+Overheating,1947,245,48,30,20,3.4,2.8
+Transformer Failure,1935,234,55,26,29,2.8,5.1
+Overheating,2208,239,54,36,15,5.5,4.8
+Line Breakage,1972,203,55,35,21,4.9,6.6
+Transformer Failure,2110,189,49,23,22,2.3,5.9
+Transformer Failure,2081,215,53,38,23,5.9,4.8
+Transformer Failure,1998,220,46,24,15,2.2,1.4
+Line Breakage,2201,192,55,33,16,2.2,1.7
+Overheating,1923,209,48,39,29,3.4,2.4
+Line Breakage,1912,201,51,26,27,2.4,5.4
+Transformer Failure,1926,232,48,27,24,5.7,2.7
+Line Breakage,2096,229,52,26,17,4.8,3.7
+Overheating,2184,228,45,37,18,3.7,6.3
+Transformer Failure,2115,229,52,39,16,2.3,6
+Overheating,1906,207,50,31,22,3.2,2.4
+Overheating,2151,211,55,22,24,3.4,3.3
+Transformer Failure,2017,191,51,28,21,5.6,2.6
+Line Breakage,2130,246,54,36,16,2.2,2.4
+Overheating,2156,250,45,28,12,2.6,1.8
+Transformer Failure,1917,232,49,25,26,4.5,4.4
+Overheating,2282,234,47,27,10,2.3,5.6
+Transformer Failure,1863,239,53,31,15,3,1.1
+Line Breakage,1810,244,53,21,22,3.9,6.1
+Line Breakage,2093,215,52,27,24,4.9,2
+Overheating,1993,197,45,29,24,5,4.3
+Overheating,2292,246,50,39,28,5.7,2
+Transformer Failure,1837,227,49,23,29,3.2,1.1
+Transformer Failure,2022,198,52,38,14,2.6,6.4
+Transformer Failure,2164,239,50,26,24,3,1.9
+Overheating,1827,224,52,32,30,3.2,5.9
+Overheating,2244,241,46,31,20,2.7,7
+Line Breakage,1830,183,53,26,30,3.8,3
+Overheating,1945,227,45,36,28,3.7,4.1
+Overheating,2089,244,46,24,22,3.8,5.3
+Transformer Failure,1900,191,54,32,18,2.2,1.1
+Line Breakage,2013,199,51,37,28,6,2
+Line Breakage,1833,208,52,25,25,3.8,6.4
+Overheating,2040,213,54,37,27,3.3,1.9
+Overheating,2149,215,54,27,17,3.1,6.6
+Transformer Failure,2007,186,54,29,18,2.9,5.7
+Line Breakage,1850,249,53,31,23,3.3,1.5
+Line Breakage,2139,188,50,21,23,3.7,6.9
+Transformer Failure,1920,242,52,32,28,5.4,2.7
+Overheating,2106,221,54,32,12,5.2,1.1
+Overheating,2278,199,45,20,25,3.2,6.1
+Overheating,1982,191,45,25,19,6,1.5
+Line Breakage,1898,201,51,35,13,4.5,4.2
+Overheating,2110,213,47,40,26,2.9,2.7
+Transformer Failure,2155,240,52,31,26,4.8,3.4
+Line Breakage,2141,221,48,27,24,2.1,1.4
+Line Breakage,1864,199,46,29,20,4.9,3.6
+Line Breakage,2143,250,54,29,16,3.5,3.3
+Transformer Failure,2236,212,51,25,25,5.1,6.2
+Transformer Failure,2294,234,55,30,28,5.8,3.5
+Transformer Failure,1821,197,48,36,29,4.9,3.5
+Line Breakage,2209,227,50,20,13,2.8,3
+Overheating,1940,247,51,36,28,3.7,6.7
+Line Breakage,2080,217,53,34,11,3.6,4.8
+Line Breakage,2275,239,54,38,17,3.8,2.8
+Overheating,2142,212,51,28,10,2.9,5.9
+Line Breakage,2290,189,49,37,27,5.5,5.4
+Overheating,2139,186,52,38,16,3.2,1.7
+Line Breakage,2171,222,47,37,30,3.7,3
+Line Breakage,1866,213,47,29,18,2.8,2
+Line Breakage,2077,250,55,22,12,5.8,1.4
+Transformer Failure,2031,223,46,36,27,3.9,4.7
+Line Breakage,1890,229,48,37,18,6,2
+Transformer Failure,2073,204,52,40,21,5.2,3.6
+Overheating,1885,204,54,40,25,2.3,7
+Line Breakage,2199,243,53,34,22,2.8,1.3
+Transformer Failure,1808,227,55,30,23,2.3,6.1
+Overheating,2103,197,52,35,27,2.5,5.9
+Overheating,2220,234,49,21,13,5.9,1.8
+Transformer Failure,1943,223,51,22,26,3.2,2.8
+Line Breakage,1894,191,47,36,29,2.5,6.8
+Transformer Failure,2095,207,54,22,17,5.4,4.3
+Overheating,2164,250,54,37,19,2.4,3.4
+Line Breakage,1847,222,49,21,14,2,6.3
+Line Breakage,2077,193,49,25,28,3.3,2.1
+Overheating,2215,182,52,26,14,4,6.9
+Line Breakage,2095,204,52,37,17,4.5,3.3
+Overheating,2298,232,54,29,18,4.8,2.5
+Overheating,2007,204,49,24,28,2.5,5
+Line Breakage,1927,185,46,32,14,4.3,4.9
+Overheating,2011,193,50,26,24,4.6,1.7
+Transformer Failure,2137,246,55,28,24,2.8,3.1
+Overheating,2050,242,49,33,11,3.9,1.4
+Line Breakage,1904,232,46,29,14,3.7,1.1
+Overheating,1955,208,52,26,18,2.6,2.3
+Line Breakage,2048,229,48,37,26,4.9,4.1
+Overheating,2064,219,51,20,12,5.6,2.5
+Line Breakage,2084,247,47,40,25,5.8,3
+Overheating,1974,180,52,26,15,4.9,3.5
+Overheating,2121,231,55,39,28,3.5,4.7
+Line Breakage,1982,240,48,37,20,5.8,1.1
+Line Breakage,1918,232,45,26,24,2.3,5.1
+Overheating,2177,207,48,31,13,5.7,3.5
+Transformer Failure,2257,206,46,30,17,5.2,5.7
+Overheating,1923,185,52,28,27,4.9,6.6
+Transformer Failure,2010,222,46,22,26,3.1,3.6
+Transformer Failure,2084,201,45,23,30,3.1,2
+Line Breakage,1891,205,48,26,14,4.6,2.4
+Line Breakage,2170,206,50,40,19,2.3,6.4
+Transformer Failure,1817,248,47,33,13,2.3,3.5
+Transformer Failure,1936,246,53,36,28,2.6,7
+Overheating,2029,234,47,39,24,4.4,6.6
+Line Breakage,2195,248,52,22,28,5.6,2.4
+Overheating,2086,241,51,40,28,2.7,6.3
+Line Breakage,2239,249,46,27,27,4.1,1.6
+Transformer Failure,1891,185,51,35,16,4.5,4.1
+Overheating,2124,249,46,30,24,6,3
+Line Breakage,2196,183,45,22,20,4.3,1.5
+Line Breakage,2024,248,55,31,11,2.6,3.1
+Transformer Failure,2058,217,49,28,15,4.4,4.5
+Transformer Failure,2193,189,47,25,19,3.3,3.8
+Overheating,2106,186,45,28,17,3.4,3.2
+Overheating,1993,195,48,33,14,6,3.2
+Line Breakage,2201,228,45,37,11,2.8,3.5
+Overheating,2202,182,54,40,26,2.2,5.8
+Line Breakage,2070,195,53,36,10,3,6.1
+Line Breakage,2250,211,53,26,22,2.3,2.6
+Line Breakage,2004,217,47,36,28,2.6,2.5
+Transformer Failure,2169,247,51,26,13,3.8,1.2
+Transformer Failure,1999,200,50,31,19,5.2,5.3
+Transformer Failure,1950,204,45,22,25,5.2,6.2
+Overheating,2058,182,48,23,21,4,2.1
+Transformer Failure,2038,187,55,30,11,2.2,6.1
+Line Breakage,2296,225,48,36,18,2.5,5.4
+Line Breakage,2164,238,53,34,13,5.9,2.4
+Line Breakage,1910,197,51,40,20,5.4,5.3
+Line Breakage,2058,243,50,32,13,5.1,5.3
+Overheating,1894,206,45,20,28,2.4,1.8
+Overheating,2152,228,50,35,30,3.1,6.9
+Line Breakage,2269,180,54,26,22,2.5,1.3
+Transformer Failure,2245,247,55,38,19,2.9,3.4
+Transformer Failure,1871,232,48,25,15,4,1.4
+Transformer Failure,1839,191,49,21,19,3.6,5.5
+Transformer Failure,1972,210,52,32,23,4.1,1.6
+Overheating,1809,185,48,21,26,3.6,4.6
+Line Breakage,1837,221,48,23,15,3.4,5.9
+Overheating,1855,242,55,35,23,4.5,6.9
+Transformer Failure,1859,210,49,37,10,3.4,2.4
+Overheating,2070,197,51,21,16,4.5,1.7
+Line Breakage,2155,182,54,21,26,4.8,5.8
+Transformer Failure,2165,237,49,38,15,4.3,6.7
+Transformer Failure,1992,217,53,40,29,4.7,5.6
+Transformer Failure,1874,248,50,38,22,3.3,1.6
+Line Breakage,2091,204,47,26,13,5.1,5.7
+Transformer Failure,2280,187,51,39,10,3.6,1.7
+Transformer Failure,2026,202,48,29,27,2.9,5
+Overheating,2260,246,47,37,10,5.8,6.3
+Line Breakage,2089,235,50,20,27,5.1,4.3
+Line Breakage,2201,250,51,38,22,2.3,6
+Line Breakage,1850,198,48,36,20,3,2.2
+Transformer Failure,2100,219,53,28,30,3.9,2.3
+Line Breakage,2107,230,51,22,11,2.8,1.5
+Line Breakage,2296,183,45,22,22,4.6,1.5
+Overheating,1964,186,52,33,15,5.8,4.9
+Overheating,1912,215,49,20,25,3.1,2
+Overheating,2171,231,51,24,29,4.2,1.6
+Transformer Failure,2272,229,45,25,28,2.1,6.6
+Overheating,1899,205,48,34,17,3.4,6.6
+Line Breakage,1855,239,53,22,24,4.7,1.5
+Line Breakage,2184,234,48,36,20,4.2,6.9
+Transformer Failure,1838,249,49,29,18,5.8,6.2
+Transformer Failure,1950,245,45,23,23,2.9,2.2
+Transformer Failure,2073,193,47,34,25,2.3,6
+Overheating,2220,248,47,23,30,5.7,3.5
+Overheating,2051,236,48,33,17,5.4,2.1
+Overheating,1973,209,54,34,10,4.2,4.8
+Transformer Failure,2032,241,45,32,25,5.1,1.9
+Line Breakage,2076,198,46,25,15,3.3,2
+Transformer Failure,1807,222,53,34,13,2.6,1.4
+Overheating,2092,197,50,38,22,4.2,4.2
+Overheating,2111,249,49,37,10,5.4,5.8
+Overheating,2230,249,51,39,18,2.5,6.3
+Transformer Failure,2083,188,55,22,19,4.2,3.7
+Line Breakage,1982,202,48,37,22,2.8,5.6
+Overheating,2031,215,51,22,29,4.7,3.8
+Overheating,1876,235,53,35,14,4.3,4
+Overheating,1962,247,45,32,30,5.2,3.2
+Overheating,2258,226,51,32,29,4.3,1.2
+Line Breakage,1890,223,50,28,18,3.8,3.4
+Line Breakage,1950,203,55,27,30,5,6.1
+Transformer Failure,2281,204,53,38,13,3,5.1
+Transformer Failure,2169,241,47,30,22,3.6,4.5
+Overheating,2200,227,46,27,26,3.6,3.2
+Overheating,1997,221,45,39,20,5.3,2.3
+Line Breakage,2249,245,54,22,13,2.7,2.2
+Overheating,2206,184,46,31,16,3.3,3.7
+Transformer Failure,1910,202,50,39,16,5.4,4.1
+Line Breakage,1962,185,45,39,18,5.2,2.7
+Line Breakage,2033,229,54,36,13,4.2,4.6
+Line Breakage,1984,196,48,36,26,2.7,1.8
+Transformer Failure,2197,234,51,21,20,5.2,3.7
+Transformer Failure,1870,243,50,36,20,3.4,4.5
+Transformer Failure,2164,216,47,36,14,5.9,5.9
+Transformer Failure,2277,180,45,21,14,2.9,4.9
+Line Breakage,2129,194,50,30,12,3.4,1.2
+Line Breakage,2177,203,55,23,19,4.1,3.3
+Overheating,1873,243,48,33,24,4.6,1.9
+Line Breakage,2178,201,50,29,16,5.2,2
+Overheating,1868,204,46,24,16,2,2.8
+Line Breakage,2253,191,53,27,23,2.8,4.3
+Transformer Failure,2041,231,53,22,24,3.9,2.9
+Overheating,1936,241,47,32,14,2.6,1.5
+Overheating,2136,250,48,23,22,4.9,6.8
+Overheating,2151,207,48,34,16,5.9,6.7
+Line Breakage,2095,207,51,25,13,5.4,1.5
+Transformer Failure,1921,201,50,40,21,2.8,4.3
+Transformer Failure,2171,239,52,27,15,5.8,4.4
+Transformer Failure,2287,243,54,23,15,3.8,2.1
+Line Breakage,1969,211,55,39,24,2.5,3.9
+Transformer Failure,2284,246,48,24,14,2.5,3.2
+Overheating,2080,204,47,21,11,4.4,6.6
+Transformer Failure,2091,236,50,26,21,2.9,4.2
+Line Breakage,2204,185,48,20,18,4.6,5.9
+Overheating,1977,200,48,38,12,4.3,5.7
+Overheating,2139,183,46,29,16,5.5,4.1
+Line Breakage,1802,233,52,22,16,4.4,1.7
+Transformer Failure,1877,194,48,25,13,5,1.8
+Line Breakage,1845,194,46,32,22,2.2,4.7
+Line Breakage,2138,247,52,27,16,2.9,2.8
+Line Breakage,2074,181,55,25,24,2.6,5.7
+Line Breakage,2204,230,55,36,14,4.7,6.9
+Line Breakage,1808,204,50,31,22,4.6,5.8
+Line Breakage,1976,196,54,35,10,2.5,2.7
+Transformer Failure,2076,226,51,29,14,5.8,6.3
+Line Breakage,2276,186,51,23,21,2.9,4
+Line Breakage,2026,190,51,33,28,2.5,6.2
+Overheating,1975,220,49,25,30,4.8,2.7
+Line Breakage,1985,231,52,38,30,5.6,2.8
+Line Breakage,2198,224,50,29,23,3.9,1.6
+Transformer Failure,1822,187,46,36,13,5.2,5.4
+Transformer Failure,2004,215,46,35,15,4.2,4.1
+Overheating,1875,183,46,30,11,4,3.5
+Line Breakage,1917,222,46,21,19,4,2.2
+Transformer Failure,1812,182,54,33,15,4.7,3.7
+Overheating,1815,206,46,37,10,5.2,5.7
+Overheating,2270,236,49,33,22,3.4,1.4
+Line Breakage,2043,182,45,21,18,2.4,6.8
+Overheating,2207,194,45,34,28,2.5,2.5
+Line Breakage,1920,249,53,22,28,3.3,5
+Overheating,1821,212,54,39,26,4.6,4.6
+Transformer Failure,2110,247,52,40,17,4.4,5.1
+Transformer Failure,1949,193,51,32,13,3.1,1.3
+Transformer Failure,2225,202,50,33,15,5.9,5
+Overheating,1858,237,45,22,18,2.6,2.3
+Line Breakage,2076,201,46,22,23,4.7,1.2
+Overheating,2276,249,46,27,21,4.4,6.3
+Overheating,1857,190,52,20,27,5.9,6.6
+Overheating,1836,249,51,28,19,5,3.7
+Transformer Failure,1919,236,53,31,24,2.2,1.2
+Overheating,2042,191,47,26,22,4.4,1.5
+Overheating,2061,243,55,38,18,3.7,6.4
+Line Breakage,2096,241,55,40,11,3.4,5.3
+Transformer Failure,2097,234,46,31,23,4.6,2.1
+Transformer Failure,2083,208,50,32,21,5.2,5.8
+Overheating,2127,185,54,33,30,3.5,2.5
+Transformer Failure,1936,237,53,29,14,2.6,3
+Transformer Failure,1982,211,55,33,18,2,6.8
+Line Breakage,2156,244,48,39,11,3.6,1.9
+Overheating,2017,182,54,22,12,6,1.7
+Overheating,2107,200,48,33,13,4.9,6.4
+Transformer Failure,2270,212,50,37,26,5.1,5.2
+Line Breakage,2184,218,52,24,18,3.7,4.9
+Line Breakage,2203,233,51,22,25,5.1,1.8
+Transformer Failure,2079,185,53,37,10,2.6,2.6
+Transformer Failure,1853,208,50,39,15,5.8,4.3
+Overheating,2268,211,54,32,29,5.7,3.3
+Transformer Failure,1967,223,54,28,20,4.5,5.3
+Overheating,2199,241,50,27,22,2.3,1.5
+Overheating,2105,248,53,32,16,3.6,5.3
+Line Breakage,1967,227,54,21,22,2.1,4.9
+Overheating,2071,212,47,21,19,5.5,5.7
+Overheating,2020,243,51,21,20,2.1,5.7
+Transformer Failure,2050,236,50,37,10,5.1,6.8
+Line Breakage,1814,234,47,27,21,5.1,6.1
+Line Breakage,1948,186,46,32,30,3.4,6.6
+Line Breakage,1882,203,46,25,14,3.7,6.3
+Overheating,1868,220,54,22,22,2.7,5.3
+Line Breakage,2236,244,49,37,26,5,6.9
+Line Breakage,2002,241,52,37,14,4.3,6.3
+Transformer Failure,1806,214,52,24,23,5.2,1.5
+Overheating,1904,247,49,27,25,3.4,4.5
+Transformer Failure,2036,250,50,40,15,2.7,1.8
+Overheating,2057,221,49,31,18,5.8,2.5
+Overheating,1973,198,48,22,13,5.7,6.9
+Transformer Failure,2177,242,55,39,12,5.1,2.5
+Transformer Failure,1885,242,47,20,16,4.7,5.9
+Transformer Failure,2077,187,46,39,22,3.3,4.8
+Line Breakage,1917,221,53,36,14,3.3,2.4
+Transformer Failure,2241,193,53,22,22,3.1,6.4
+Transformer Failure,1930,212,55,31,18,5.3,2.3
+Overheating,2043,207,52,37,13,4.6,6.5
+Overheating,2105,195,47,37,24,3,4.2
+Transformer Failure,2017,247,53,24,29,3.9,5.2
+Transformer Failure,2148,197,49,32,17,5.9,4.2
+Transformer Failure,1867,206,53,40,17,4.1,2.4
+Line Breakage,2130,250,52,20,22,5.9,4.1
+Overheating,2085,207,47,24,13,2.7,2.1
+Line Breakage,1997,239,51,32,13,5.4,4.6
+Overheating,2166,229,46,20,27,3.5,5.8
+Transformer Failure,2259,250,49,30,30,4.4,5.5
+Transformer Failure,2192,250,55,24,16,5.5,4.5
+Overheating,1901,182,52,32,15,5.8,6.7
+Overheating,1969,182,45,33,23,2.4,1.1
+Overheating,2244,191,46,27,19,3.3,3.4
+Overheating,1821,246,54,20,21,3.7,2.2
+Overheating,2090,231,47,32,29,2.9,3.6
+Overheating,1860,240,53,40,25,2.1,5.8
+Transformer Failure,1839,238,51,20,29,5.8,1.8
+Overheating,2234,246,54,37,15,5.9,4.3
+Line Breakage,2092,227,47,22,24,3.3,6.7
+Transformer Failure,1846,197,52,29,22,2.4,5
+Overheating,2111,231,47,33,18,4.4,3.9
+Overheating,2215,213,50,28,14,4.7,3.2
+Line Breakage,1864,180,54,24,14,4.8,1.1
+Overheating,1912,223,51,28,11,5.3,2.7
+Transformer Failure,2270,221,49,20,11,4.6,6.5
+Overheating,2167,237,48,22,14,5.8,4.3
+Transformer Failure,2202,224,53,40,11,3.5,1
+Line Breakage,1855,191,50,25,23,5,2.4
+Transformer Failure,1902,185,45,34,12,4.7,1
+Transformer Failure,2134,191,53,38,19,4.8,2.4
+Overheating,2039,232,54,37,28,2.5,2.5
+Transformer Failure,2175,191,54,36,14,5.2,1.5
+Overheating,1970,185,47,31,27,4.7,1.4
+Transformer Failure,2204,226,52,28,26,3.7,1.4
+Transformer Failure,2181,234,52,26,28,6,6.3
+Overheating,2295,202,50,27,22,4.2,3
+Line Breakage,1941,186,51,31,24,2.3,6.8
